@@ -1,0 +1,45 @@
+#banner {
+    background-image: url("/assets/tree1.jpg");
+    min-height: 1200px;
+    background-color: black;
+    background-attachment: fixed;
+    background-position: -10% -20%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#p1 {
+    margin-top: 20px;
+    background-image: url(/assets/tree2.jpg);
+    height: 400px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+#part2{
+    background-image: url("/assets/book.jpg");
+    min-height:1000px;
+    background-color: black;
+    background-attachment: fixed;
+    /* background-position: -10% -20%; */
+    background-repeat: no-repeat;
+    background-size: contain;    
+}
+
+.textwhite{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 500px;
+    padding-right: 40px;
+}
+
+#p2 {
+    margin-top: 20px;
+    background-image: url(/assets/shiy.jpg);
+    height: 400px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
